@@ -1,5 +1,8 @@
-title: CJ Chin's Data Science Portfolio
-logo:
-description: This is my transition journey in to Data Science
-show_downloads : True
+title: CJ Chin
+description: >- # this means the following lines will be treated as a single string
+  Welcome to my Data Science Portfolio — showcasing projects, visualizations, and skills.
 theme: jekyll-theme-minimal
+logo: /assets/img/profile.png  # optional
+show_downloads: false
+google_analytics: # Add your tracking ID if needed
+
