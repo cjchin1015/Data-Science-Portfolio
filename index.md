@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I'm CJ Chin
 
 I’m a Data Analyst and Machine Learning enthusiast. I build data-driven solutions using Python, SQL, and ML tools.
 
@@ -11,7 +11,7 @@ I’m a Data Analyst and Machine Learning enthusiast. I build data-driven soluti
 
 ## 🧠 Skills
 - Python (Pandas, NumPy, Scikit-Learn)
-- SQL & Databases
+- SQL
 - Data Visualization (Matplotlib, Seaborn)
 - Machine Learning & EDA
 
@@ -32,6 +32,6 @@ I’m a Data Analyst and Machine Learning enthusiast. I build data-driven soluti
 ---
 
 ## 📫 Contact
-- 📧 your.email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)
-- 🐙 [GitHub](https://github.com/yourusername)
+- 📧 cjchin1015@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/cj-chin/)
+- 🐙 [GitHub](https://github.com/cjchin1015)
